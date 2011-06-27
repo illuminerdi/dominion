@@ -2,6 +2,7 @@
 require 'rubygems'
 require 'dominion/card_set'
 require 'dominion/card'
+require 'dominion/supply'
 
 class Dominion
   VERSION = '1.0.0'

@@ -8,6 +8,6 @@ class TestSupply < Test::Unit::TestCase
   end
 
   def test_sanity
-
+    flunk "write me"
   end
 end

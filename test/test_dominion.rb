@@ -77,4 +77,9 @@ class TestDominion < Test::Unit::TestCase
       Dominion.new 6
     }
   end
+
+  def test_generate_supply
+    foo = @d.generate_supply
+    assert foo.instance_of? Supply
+  end
 end
