@@ -1,0 +1,161 @@
+--- !ruby/object:CardSet 
+cards: 
+- !ruby/object:Card 
+  cost: 2
+  set: :intrigue
+  title: Secret Chamber
+  type: 
+  - :action
+  - :reaction
+- !ruby/object:Card 
+  cost: 3
+  set: :intrigue
+  title: Great Hall
+  type: 
+  - :action
+  - :victory
+- !ruby/object:Card 
+  cost: 3
+  set: :intrigue
+  title: Masquerade
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 3
+  set: :intrigue
+  title: Shanty Town
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 3
+  set: :intrigue
+  title: Steward
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 3
+  set: :intrigue
+  title: Swindler
+  type: 
+  - :action
+  - :attack
+- !ruby/object:Card 
+  cost: 3
+  set: :intrigue
+  title: Wishing Well
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 4
+  set: :intrigue
+  title: Baron
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 4
+  set: :intrigue
+  title: Bridge
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 4
+  set: :intrigue
+  title: Conspirator
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 4
+  set: :intrigue
+  title: Coppersmith
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 4
+  set: :intrigue
+  title: Ironworks
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 4
+  set: :intrigue
+  title: Mining Village
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 4
+  set: :intrigue
+  title: Pawn
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 4
+  set: :intrigue
+  title: Scout
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 4
+  set: :intrigue
+  title: Throne Room
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 5
+  set: :intrigue
+  title: Duke
+  type: 
+  - :victory
+- !ruby/object:Card 
+  cost: 5
+  set: :intrigue
+  title: Minion
+  type: 
+  - :action
+  - :attack
+- !ruby/object:Card 
+  cost: 5
+  set: :intrigue
+  title: Saboteur
+  type: 
+  - :action
+  - :attack
+- !ruby/object:Card 
+  cost: 5
+  set: :intrigue
+  title: Torturer
+  type: 
+  - :action
+  - :attack
+- !ruby/object:Card 
+  cost: 5
+  set: :intrigue
+  title: Trading Post
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 5
+  set: :intrigue
+  title: Tribute
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 5
+  set: :intrigue
+  title: Upgrade
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 6
+  set: :intrigue
+  title: Harem
+  type: 
+  - :treasure
+  - :victory
+- !ruby/object:Card 
+  cost: 6
+  set: :intrigue
+  title: Nobles
+  type: 
+  - :action
+  - :victory
+set: :intrigue

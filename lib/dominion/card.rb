@@ -1,7 +1,7 @@
 require 'dominion'
 
 class Card
-  attr_accessor :title, :cost, :set, :type
+  attr_accessor :title, :cost, :set, :type, :potion
 
   TYPES = [:action, :attack, :duration, :reaction, :treasure, :victory]
 
@@ -9,6 +9,7 @@ class Card
     @title = title
     @cost = h[:cost] || 0
     @type = []
+    @potion = h[:potion] || false
     check_type(h[:type])
     check_set(h[:set])
   end

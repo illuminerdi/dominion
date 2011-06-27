@@ -1,0 +1,151 @@
+--- !ruby/object:CardSet 
+cards: 
+- !ruby/object:Card 
+  cost: 3
+  set: :prosperity
+  title: Loan
+  type: 
+  - :treasure
+- !ruby/object:Card 
+  cost: 3
+  set: :prosperity
+  title: Trade Route
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 3
+  set: :prosperity
+  title: Watchtower
+  type: 
+  - :action
+  - :reaction
+- !ruby/object:Card 
+  cost: 4
+  set: :prosperity
+  title: Bishop
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 4
+  set: :prosperity
+  title: Monument
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 4
+  set: :prosperity
+  title: Quarry
+  type: 
+  - :treasure
+- !ruby/object:Card 
+  cost: 4
+  set: :prosperity
+  title: Talisman
+  type: 
+  - :treasure
+- !ruby/object:Card 
+  cost: 5
+  set: :prosperity
+  title: City
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 5
+  set: :prosperity
+  title: Contraband
+  type: 
+  - :treasure
+- !ruby/object:Card 
+  cost: 5
+  set: :prosperity
+  title: Counting House
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 5
+  set: :prosperity
+  title: Mint
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 5
+  set: :prosperity
+  title: Mountebank
+  type: 
+  - :action
+  - :attack
+- !ruby/object:Card 
+  cost: 5
+  set: :prosperity
+  title: Rabble
+  type: 
+  - :action
+  - :attack
+- !ruby/object:Card 
+  cost: 5
+  set: :prosperity
+  title: Royal Seal
+  type: 
+  - :treasure
+- !ruby/object:Card 
+  cost: 5
+  set: :prosperity
+  title: Vault
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 5
+  set: :prosperity
+  title: Venture
+  type: 
+  - :treasure
+- !ruby/object:Card 
+  cost: 6
+  set: :prosperity
+  title: Goons
+  type: 
+  - :action
+  - :attack
+- !ruby/object:Card 
+  cost: 6
+  set: :prosperity
+  title: Grand Market
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 6
+  set: :prosperity
+  title: Hoard
+  type: 
+  - :treasure
+- !ruby/object:Card 
+  cost: 7
+  set: :prosperity
+  title: Bank
+  type: 
+  - :treasure
+- !ruby/object:Card 
+  cost: 7
+  set: :prosperity
+  title: Expand
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 7
+  set: :prosperity
+  title: Forge
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 7
+  set: :prosperity
+  title: King's Court
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 8
+  set: :prosperity
+  title: Peddler
+  type: 
+  - :action
+set: :prosperity

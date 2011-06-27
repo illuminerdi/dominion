@@ -43,4 +43,38 @@ class TestDominion < Test::Unit::TestCase
       end
     }
   end
+
+  def test_less_than_2_players_throws_exception
+    assert_raises(DominionError) {
+      begin
+        Dominion.new 1
+      rescue DominionError => de
+        assert_match /Dominion requires between 2-6 players/, de.message
+        raise de
+      end
+    }
+  end
+
+  def test_more_than_6_players_throws_exception
+    assert_raises(DominionError) {
+      begin
+        Dominion.new 7
+      rescue DominionError => de
+        assert_match /Dominion requires between 2-6 players/, de.message
+        raise de
+      end
+    }
+  end
+
+  def test_2_players_accepted
+    assert_nothing_raised {
+      Dominion.new 2
+    }
+  end
+
+  def test_6_players_accepted
+    assert_nothing_raised {
+      Dominion.new 6
+    }
+  end
 end

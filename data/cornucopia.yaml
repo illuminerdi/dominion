@@ -1,0 +1,77 @@
+--- !ruby/object:CardSet 
+cards: 
+- !ruby/object:Card 
+  cost: 2
+  set: :cornucopia
+  title: Hamlet
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 3
+  set: :cornucopia
+  title: Fortune Teller
+  type: 
+  - :action
+  - :attack
+- !ruby/object:Card 
+  cost: 3
+  set: :cornucopia
+  title: Menagerie
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 4
+  set: :cornucopia
+  title: Farming Village
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 4
+  set: :cornucopia
+  title: Horse Traders
+  type: 
+  - :action
+  - :reaction
+- !ruby/object:Card 
+  cost: 4
+  set: :cornucopia
+  title: Remake
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 4
+  set: :cornucopia
+  title: Tournament
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 5
+  set: :cornucopia
+  title: Harvest
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 5
+  set: :cornucopia
+  title: Horn of Plenty
+  type: 
+  - :treasure
+- !ruby/object:Card 
+  cost: 5
+  set: :cornucopia
+  title: Hunting Party
+  type: 
+  - :action
+- !ruby/object:Card 
+  cost: 5
+  set: :cornucopia
+  title: Jester
+  type: 
+  - :treasure
+- !ruby/object:Card 
+  cost: 6
+  set: :cornucopia
+  title: Fairgrounds
+  type: 
+  - :victory
+set: :cornucopia

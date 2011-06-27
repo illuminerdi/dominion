@@ -1,0 +1,159 @@
+--- !ruby/object:CardSet
+cards:
+- !ruby/object:Card
+  cost: 2
+  set: :base
+  title: Cellar
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 2
+  set: :base
+  title: Chapel
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 2
+  set: :base
+  title: Moat
+  type:
+  - :action
+  - :reaction
+- !ruby/object:Card
+  cost: 3
+  set: :base
+  title: Chancellor
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 3
+  set: :base
+  title: Village
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 3
+  set: :base
+  title: Woodcutter
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 3
+  set: :base
+  title: Workshop
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 4
+  set: :base
+  title: Bureaucrat
+  type:
+  - :action
+  - :attack
+- !ruby/object:Card
+  cost: 4
+  set: :base
+  title: Feast
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 4
+  set: :base
+  title: Gardens
+  type:
+  - :victory
+- !ruby/object:Card
+  cost: 4
+  set: :base
+  title: Militia
+  type:
+  - :action
+  - :attack
+- !ruby/object:Card
+  cost: 4
+  set: :base
+  title: Moneylender
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 4
+  set: :base
+  title: Remodel
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 4
+  set: :base
+  title: Smithy
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 4
+  set: :base
+  title: Spy
+  type:
+  - :action
+  - :attack
+- !ruby/object:Card
+  cost: 4
+  set: :base
+  title: Thief
+  type:
+  - :action
+  - :attack
+- !ruby/object:Card
+  cost: 4
+  set: :base
+  title: Throne Room
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 5
+  set: :base
+  title: Council Room
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 5
+  set: :base
+  title: Festival
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 5
+  set: :base
+  title: Laboratory
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 5
+  set: :base
+  title: Library
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 5
+  set: :base
+  title: Market
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 5
+  set: :base
+  title: Mine
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 5
+  set: :base
+  title: Witch
+  type:
+  - :action
+  - :attack
+- !ruby/object:Card
+  cost: 6
+  set: :base
+  title: Adventurer
+  type:
+  - :action
+set: :base

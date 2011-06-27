@@ -1,0 +1,174 @@
+--- !ruby/object:CardSet
+cards:
+- !ruby/object:Card
+  cost: 2
+  set: :seaside
+  title: Embargo
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 2
+  set: :seaside
+  title: Haven
+  type:
+  - :action
+  - :duration
+- !ruby/object:Card
+  cost: 2
+  set: :seaside
+  title: Lighthouse
+  type:
+  - :action
+  - :duration
+- !ruby/object:Card
+  cost: 2
+  set: :seaside
+  title: Native Village
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 2
+  set: :seaside
+  title: Pearl Diver
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 3
+  set: :seaside
+  title: Ambassador
+  type:
+  - :action
+  - :attack
+- !ruby/object:Card
+  cost: 3
+  set: :seaside
+  title: Fishing Village
+  type:
+  - :action
+  - :duration
+- !ruby/object:Card
+  cost: 3
+  set: :seaside
+  title: Lookout
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 3
+  set: :seaside
+  title: Smugglers
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 3
+  set: :seaside
+  title: Warehouse
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 4
+  set: :seaside
+  title: Caravan
+  type:
+  - :action
+  - :duration
+- !ruby/object:Card
+  cost: 4
+  set: :seaside
+  title: Cutpurse
+  type:
+  - :action
+  - :attack
+- !ruby/object:Card
+  cost: 4
+  set: :seaside
+  title: Island
+  type:
+  - :action
+  - :victory
+- !ruby/object:Card
+  cost: 4
+  set: :seaside
+  title: Navigator
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 4
+  set: :seaside
+  title: Pirate Ship
+  type:
+  - :action
+  - :attack
+- !ruby/object:Card
+  cost: 4
+  set: :seaside
+  title: Salvager
+  type:
+  - :action
+  - :attack
+- !ruby/object:Card
+  cost: 4
+  set: :seaside
+  title: Sea Hag
+  type:
+  - :action
+  - :attack
+- !ruby/object:Card
+  cost: 4
+  set: :seaside
+  title: Treasure Map
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 5
+  set: :seaside
+  title: Bazaar
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 5
+  set: :seaside
+  title: Explorer
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 5
+  set: :seaside
+  title: Ghost Ship
+  type:
+  - :action
+  - :attack
+- !ruby/object:Card
+  cost: 5
+  set: :seaside
+  title: Merchant Ship
+  type:
+  - :action
+  - :duration
+- !ruby/object:Card
+  cost: 5
+  set: :seaside
+  title: Outpost
+  type:
+  - :action
+  - :duration
+- !ruby/object:Card
+  cost: 5
+  set: :seaside
+  title: Tactician
+  type:
+  - :action
+  - :duration
+- !ruby/object:Card
+  cost: 5
+  set: :seaside
+  title: Treasury
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 5
+  set: :seaside
+  title: Wharf
+  type:
+  - :action
+  - :duration
+set: :seaside

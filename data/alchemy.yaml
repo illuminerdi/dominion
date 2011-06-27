@@ -1,0 +1,86 @@
+--- !ruby/object:CardSet
+cards:
+- !ruby/object:Card
+  cost: 0
+  potion: true
+  set: :alchemy
+  title: Transmute
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 0
+  potion: true
+  set: :alchemy
+  title: Vineyard
+  type:
+  - :victory
+- !ruby/object:Card
+  cost: 2
+  potion: true
+  set: :alchemy
+  title: Apothecary
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 2
+  set: :alchemy
+  title: Herbalist
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 2
+  potion: true
+  set: :alchemy
+  title: University
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 3
+  potion: true
+  set: :alchemy
+  title: Alchemist
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 3
+  potion: true
+  set: :alchemy
+  title: Familiar
+  type:
+  - :action
+  - :attack
+- !ruby/object:Card
+  cost: 3
+  potion: true
+  set: :alchemy
+  title: Philosopher's Stone
+  type:
+  - :treasure
+- !ruby/object:Card
+  cost: 3
+  potion: true
+  set: :alchemy
+  title: Scrying Pool
+  type:
+  - :action
+  - :attack
+- !ruby/object:Card
+  cost: 4
+  potion: true
+  set: :alchemy
+  title: Golem
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 5
+  set: :alchemy
+  title: Apprentice
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 6
+  set: :alchemy
+  title: Possession
+  type:
+  - :action
+set: :alchemy

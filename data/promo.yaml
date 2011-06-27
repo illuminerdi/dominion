@@ -1,0 +1,21 @@
+--- !ruby/object:CardSet
+cards:
+- !ruby/object:Card
+  cost: 5
+  set: :promo
+  title: Stash
+  type:
+  - :treasure
+- !ruby/object:Card
+  cost: 4
+  set: :promo
+  title: Envoy
+  type:
+  - :action
+- !ruby/object:Card
+  cost: 3
+  set: :promo
+  title: Black Market
+  type:
+  - :action
+set: :promo

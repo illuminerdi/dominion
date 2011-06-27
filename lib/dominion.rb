@@ -11,6 +11,7 @@ class Dominion
   CURRENT_SETS = [:base, :intrigue, :seaside, :alchemy, :prosperity, :cornucopia, :promo]
 
   def initialize(players=3, h={sets: [:base]})
+    raise DominionError.new("Dominion requires between 2-6 players") unless (2..6).include?(players)
     @players = players
     @sets = []
     load_sets h[:sets]
